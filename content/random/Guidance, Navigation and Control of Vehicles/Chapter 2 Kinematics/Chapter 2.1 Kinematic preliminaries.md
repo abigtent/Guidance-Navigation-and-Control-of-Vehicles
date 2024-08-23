@@ -1,4 +1,11 @@
-
+```
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+```
 ### Earth- centered reference frames
 
 *{i}: The Earth- centered inertial reference frame (ECI)*
