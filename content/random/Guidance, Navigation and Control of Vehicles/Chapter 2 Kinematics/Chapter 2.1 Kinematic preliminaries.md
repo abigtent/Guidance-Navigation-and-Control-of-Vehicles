@@ -1,9 +1,8 @@
 ```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
 draft: false
-tags:
-  - 
+tags: 
+	- kinematics 
 ---
 ```
 ### Earth- centered reference frames
