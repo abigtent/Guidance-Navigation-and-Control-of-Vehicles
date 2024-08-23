@@ -3,7 +3,6 @@
 title:
 draft: false
 tags: 
-	- kinematics 
 ---
 ```
 ### Earth- centered reference frames
