@@ -1,9 +1,8 @@
-
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: 
 draft: false
 tags:
-  - 
+  - example-tag
 ---
 
 ![[Chapter 1 Introduction - page 1.svg]]s
