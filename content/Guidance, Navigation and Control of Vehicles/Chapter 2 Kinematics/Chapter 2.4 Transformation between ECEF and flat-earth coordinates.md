@@ -1,3 +1,10 @@
+---
+title: 
+draft: false
+tags:
+  - kinematics
+---
+
 For local flat-earth navigation it can be assumed that the NED tangent plane is fixed on the surface of the earth
 
 Flat earth is a good approximation for ships operation in a limited region.

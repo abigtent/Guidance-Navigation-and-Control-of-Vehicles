@@ -1,10 +1,10 @@
-```
 ---
-title:
+title: 
 draft: false
-tags: 
+tags:
+  - kinematics
 ---
-```
+
 ### Earth- centered reference frames
 
 *{i}: The Earth- centered inertial reference frame (ECI)*

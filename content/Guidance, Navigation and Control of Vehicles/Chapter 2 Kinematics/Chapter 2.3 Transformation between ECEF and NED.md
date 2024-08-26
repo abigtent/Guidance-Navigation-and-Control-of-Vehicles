@@ -1,3 +1,10 @@
+---
+title: 
+draft: false
+tags:
+  - kinematics
+---
+
 A point on or above the earth's surface is uniquely determined by:
 $$
 \begin{align*} \text{Longitude} &\to l \text{ (deg)} \\ \text{Latitude} &\to \mu \text{ (deg)} \\ \text{Ellipsoidal height} &\to h \text{ (m)} \end{align*}

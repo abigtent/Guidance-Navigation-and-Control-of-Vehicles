@@ -1,8 +1,7 @@
 ---
 title: 
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 
 ![[Chapter 1 Introduction - page 1.svg]]

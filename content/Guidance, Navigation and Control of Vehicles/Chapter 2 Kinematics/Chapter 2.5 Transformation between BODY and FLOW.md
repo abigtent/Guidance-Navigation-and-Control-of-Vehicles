@@ -1,3 +1,9 @@
+---
+title: 
+draft: false
+tags:
+  - kinematics
+---
 The **FLOW** frame is a body- fixed reference frame used to express the hydrodynamic forces and moments acting on the marine craft. The **FLOW** axes are found by rotation the **BODY** axes such that the resulting *x_f* axis is parallel to the freestream flow. 
 
 ### Definitions
