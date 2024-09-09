@@ -37,6 +37,8 @@ S(\lambda) = -S^T(\lambda) = \begin{bmatrix}
 $$
 [Smtrx.m](https://github.com/cybergalactic/MSS/blob/master/LIBRARY/kinematics/Smtrx.m)
 
+
+
 The inverse operator is denoted vex(.) such that
 $$
 \lambda = vex(S(\lambda))
